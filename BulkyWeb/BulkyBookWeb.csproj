@@ -28,8 +28,4 @@
     <Folder Include="wwwroot\images\product\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Areas\" />
-  </ItemGroup>
-
 </Project>
